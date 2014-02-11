@@ -17,7 +17,7 @@ Open Terminal and
 ```
 cd ~/.config/sublime-text-3/Packages
 rm -rf LiveReload
-git clone -b devel https://github.com/dz0ny/LiveReload-sublimetext2.git LiveReload
+git clone -b master https://github.com/schaulet/ST3-LiveReload.git LiveReload
 ```
 
 ### OSX users
@@ -25,7 +25,7 @@ git clone -b devel https://github.com/dz0ny/LiveReload-sublimetext2.git LiveRelo
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 rm -rf LiveReload
-git clone -b devel https://github.com/dz0ny/LiveReload-sublimetext2.git LiveReload
+git clone -b master https://github.com/schaulet/ST3-LiveReload.git LiveReload
 ```
 
 # Using
